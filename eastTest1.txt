@@ -14,8 +14,11 @@ Create a new branch is quick1111
 sign a sign
 as long as i love you
 add dev1 real a line
-dev1 add a line
+dev1 add a line11
 solve issue
+<<<<<<< HD
 solve issue1
-add line to stash flag
+add line to stash fle
 some fuck you
+real solve issuehaha
+dev2change
