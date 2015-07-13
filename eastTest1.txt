@@ -18,3 +18,4 @@ dev1 add a line
 solve issue
 solve issue1
 add line to stash flag
+some fuck you
