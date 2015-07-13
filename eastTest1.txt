@@ -1,6 +1,9 @@
 eastTest1
 lalala
 hehe
+=======
+eastTest2
+>>>>>>> eastAB
 are you here?
 add a line
 add seconde likillfffnothingne
